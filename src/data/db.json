@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Python",
+      "description": "Python is a high level programming language"
+    },
+    {
+      "id": "2",
+      "title": "ReactJs",
+      "description": "React.js framework is an open-source JavaScript framework and library developed by Facebook. It’s used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript."
+    },
+    {
+      "id": "3",
+      "title": "Java Course",
+      "description": "Java is a highlevel programming language"
+    }
+  ]
+}
